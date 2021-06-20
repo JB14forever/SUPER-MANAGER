@@ -53,6 +53,8 @@ to the user for the payment received.
 
 - **Payment Gateway:** Razorpay
 
+- **Web Hosting:** 000Webhost
+
   
 ## Authors
 
