@@ -55,6 +55,29 @@ to the user for the payment received.
 
 - **Web Hosting:** 000Webhost
 
+
+## Screenshots
+
+- **Websiste:**
+
+![website](https://raw.githubusercontent.com/JB14forever/SUPER-MANAGER/main/Screenshots/Super-Manager-Website.png)
+
+- **Payment Page:**
+
+![Payment-page](https://raw.githubusercontent.com/JB14forever/SUPER-MANAGER/main/Screenshots/Payment-page.png)
+
+- **Payment Success:**
+
+![Payment-success](https://raw.githubusercontent.com/JB14forever/SUPER-MANAGER/main/Screenshots/Payment-success.png)
+
+- **Invoice Email:**
+
+![Invoice-email](https://raw.githubusercontent.com/JB14forever/SUPER-MANAGER/main/Screenshots/Invoice-email.png)
+
+- **Payment Receipt:**
+
+![Payment-receipt](https://raw.githubusercontent.com/JB14forever/SUPER-MANAGER/main/Screenshots/Payment-receipt.png)
+
   
 ## Authors
 
