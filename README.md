@@ -1,5 +1,5 @@
 
-![Logo](https://super-manager.000webhostapp.com/images/logo.jpg)
+![Logo](images/logo.jpg)
 
     
 
